@@ -13,7 +13,6 @@ Aplicación móvil para **organizar tareas escolares** de forma sencilla, privad
 ## 📋 Tabla de contenido
 
 - [Características](#-características)
-- [Capturas de pantalla](#-capturas-de-pantalla)
 - [Tecnologías](#-tecnologías)
 - [Arquitectura](#-arquitectura)
 - [Modelo de datos](#-modelo-de-datos)
@@ -37,18 +36,6 @@ Aplicación móvil para **organizar tareas escolares** de forma sencilla, privad
 - 😀 **Estados vacíos** con mensajes amigables cuando no hay tareas.
 - 💬 **Frase motivacional diaria** obtenida desde la API de ZenQuotes.
 - 🌙 Interfaz oscura con acentos amarillos, basada en tarjetas, listas y campos de texto.
-
-## 📱 Capturas de pantalla
-
-> Agrega las imágenes del prototipo en una carpeta `docs/screenshots/` y actualiza las rutas.
-
-| Inicio de sesión | Todas (Hoy) | Pendientes |
-|:---:|:---:|:---:|
-| ![Login](docs/screenshots/login.png) | ![Todas](docs/screenshots/todas.png) | ![Pendientes](docs/screenshots/pendientes.png) |
-
-| Completadas | Nueva tarea | Eliminar tarea |
-|:---:|:---:|:---:|
-| ![Completadas](docs/screenshots/completadas.png) | ![Nueva](docs/screenshots/nueva-tarea.png) | ![Eliminar](docs/screenshots/eliminar.png) |
 
 ## 🛠️ Tecnologías
 
