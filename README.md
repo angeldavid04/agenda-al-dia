@@ -247,4 +247,4 @@ create policy "Tareas propias" on public.tareas
 
 ## 📄 Licencia
 
-Proyecto académico de uso libre.
+Proyecto académico de uso libre con licencia del [MIT](LICENSE).
